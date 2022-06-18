@@ -11,7 +11,13 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        // я подсматривал сюда
+        // https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html
+        
+        //arraysExample()()
+        //dictionariesExample()
+        setsExample()
     }
 
 
